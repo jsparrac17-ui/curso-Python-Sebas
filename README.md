@@ -3,10 +3,11 @@ Para juhar juego si quieres perra sigue estos pasos puto:
 
 ´´´sh
 cd game
-python3 main.py
+python3 main.py´´´
 
 
-#App Project 
+# App Project 
+
 
 ´´´´
 Git clone
